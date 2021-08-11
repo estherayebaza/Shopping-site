@@ -1,0 +1,80 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Check it out",
+            "price": 135,
+            "image": "./sec.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Check it out",
+            "price": 950,
+            "image": "./13.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Check it out",
+            "price": 750,
+            "image": "./11.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Check it out",
+            "price": 999,
+            "image": "./9.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Check it out",
+            "price": 250,
+            "image": "./8.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Check it out",
+            "price": 850,
+            "image": "./10.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Check it out",
+            "price": 600,
+            "image": "./fourth.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Check it out",
+
+            "price": 350,
+            "image": "./sixth.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Check it out",
+            "price": 799,
+            "image": "./seven.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Check it out",
+            "price": 150,
+            "image": "./short.jpeg"
+        },
+        {
+            "id": 11,
+            "title": "Check it out",
+            "price": 650,
+            "image": "./weding.jpeg"
+        },
+        {
+            "id": 12,
+            "title": "Check it out",
+            "price": 1150,
+            "image": "./third.jpg"
+        }
+    ]
+
+}
